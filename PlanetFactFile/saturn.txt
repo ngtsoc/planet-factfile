@@ -1,0 +1,9 @@
+planetName: Saturn
+radius: 58232 km
+orbitalPeriod: 29 years
+distanceToSun: 1.434 billion km
+surfaceArea: 42.7 billion km^2
+lengthOfDay: 10 hours
+density: 687 kg/m^3
+description: Saturn is a gas giant and has a radius about 9.5 times larger than Earth.
+funFact: Saturn is known for its colourful rings. The rings are made up of icy rocks that orbit the planet. They are bright and colourful because they reflect light from the Sun!

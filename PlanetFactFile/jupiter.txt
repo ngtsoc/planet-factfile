@@ -1,0 +1,8 @@
+planetName: Jupiter
+radius: 69911 km
+orbitalPeriod: 12 years
+surfaceArea: 61.42 billion km^2
+lengthOfDay: 10 hours
+density: 1.33 g/cm^3
+description: Jupiter is the fifth planet from the Sun and the largest in the solar system. It is a gas giant with a mass one-thousandth of the Sun.
+funFact: Jupiter is so big that all eight planets in our Solar System could fit inside it!

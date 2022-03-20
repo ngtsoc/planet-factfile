@@ -1,0 +1,9 @@
+planetName: The Earth
+radius: 6371 km
+orbitalPeriod: 365 days
+distanceToSun: 149.6 million km
+surfaceArea: 510.1 million km^2
+lengthOfDay: 24 hours
+density: 5.51 g/cm^3
+description: Earth is the planet we live on! Currently the only known place in the universe to support life.
+funFact: 70% of the Earth's surface is covered in water.

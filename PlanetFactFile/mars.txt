@@ -1,0 +1,9 @@
+planetName: Mars
+radius: 3389.5 km
+orbitalPeriod: 687 days
+distanceToSun: 227.9 million km
+surfaceArea: 144.8 million km^2
+lengthOfDay: 24.5 hours
+density: 3.93 g/cm^3
+description: Mars is covered with red dust which makes it look very hot - it's actually freezing cold!
+funFact: It is still debated whether mars once sustained life. However from the study of certain rocks we have spotted signs that the planet did once house water.

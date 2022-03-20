@@ -1,0 +1,9 @@
+planetName: Neptune
+radius: 24622 km
+orbitalPeriod: 165 years
+distanceToSun: 4.495 billion km
+surfaceArea: 7.618 billion km^2
+lengthOfDay: 16 hours
+density: 1.64 g/cm^3
+description: Neptune is the most distant planet from the Sun and is the smallest gas giant. It has 6 faint rings.
+funFact: Neptune is named after the Roman God of the Ocean.

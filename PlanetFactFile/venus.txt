@@ -1,0 +1,9 @@
+planetName: Venus
+radius: 6051.8 km
+orbitalPeriod: 255 days
+distanceToSun: 108.2 million km
+surfaceArea: 460.2 million km^2
+lengthOfDay: 116 days
+density: 5.24 g/cm^3
+description: Venus has a thick cloudly atmosphere that is poisonous. It's yellow clouds are full of gases and acid that would burn your skin.
+funFact: Venus spins in the opposite direction of Earth and most other planets.

@@ -1,0 +1,9 @@
+planetName: Uranus
+radius: 25362 km
+orbitalPeriod: 84 years
+distanceToSun: 2.871 billion km
+surfaceArea: 8.083 billion km^2
+lengthOfDay: 17 hours
+density: 1.27 g/cm^3
+description: Uranus is made of water methane and ammonia fluids above a small rocky center.
+funFact: Uranus rotates in the opposite direction as most other planets. And unlike any other planet Uranus rotates on its side.

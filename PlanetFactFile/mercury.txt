@@ -1,0 +1,9 @@
+planetName: Mercury
+radius: 2439.7 km
+orbitalPeriod: 88 days
+distanceToSun: 57.91 million km
+surfaceArea: 74.8 million km^2
+lengthOfDay: 58 days
+density: 5.43 g/cm^3
+description: The smallest planet in our solar system. It has a solid surface that is covered with craters like our Moon. It has a thin atmosphere and no moons.
+funFact: If we lived on this planet, we would be four times as old as we are on Earth.
